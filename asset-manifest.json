@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Patient_details/static/css/main.6327c554.css",
+    "main.js": "/Patient_details/static/js/main.7917edcc.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Patient_details/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Patient_details/index.html",
+    "main.6327c554.css.map": "/Patient_details/static/css/main.6327c554.css.map",
+    "main.7917edcc.js.map": "/Patient_details/static/js/main.7917edcc.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Patient_details/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6327c554.css",
+    "static/js/main.7917edcc.js"
+  ]
+}
